@@ -1,9 +1,4 @@
 coding data 
-Omega, O and Theta are just notations. You could use Omega for worst case and O for best case. Example is that best case for linear search is O(1).
-
-Thing is, that if given an algorithm A, if for example worst case is O(n) and best case is Omega(n), then u can use Theta to describe the exact complexity of the algorithm: Theta(n)
-
-
 
 Array strings
 Hash map and hash set
